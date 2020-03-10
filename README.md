@@ -1,4 +1,4 @@
-# LoL-Pro-Analysis
+# League of Legends Professional Player Analysis
 The 2019 League of Legends World Championship (Worlds 2019) has sparked discussion on the skill level and effectiveness of certain players. There is relative disagreement among casual fans, analysts, and even the professional players themselves on how "good" the competitors are. 
 
 One interesting element of this discussion is player "uniqueness". Doinb, the mid laner for the newly crowned world champion team FunPlus Phoenix, for example, is thought of to be a skilled player in a unique way due to the fact that he affects the game by roaming and not through superior laning such as other mid lane superstars like former world champions Faker or Rookie.

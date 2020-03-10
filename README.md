@@ -13,8 +13,7 @@ This repository contains the versions of data, figures generated, and Python not
 The data that I will be using for this set of analyses was scraped from https://gol.gg/esports/, which contains different statistics such as win rate, KDA, CSM, Avg WPM, etc. for players from all professional leagues. 
 
 ## How to Run
-Create a virtual environment and install the packages listed in `requirements.txt` using:
+Make sure you have installed the packages listed in `requirements.txt`. Otherwise, install them by using a command like:
 ```
 pip install -r requirements.txt
 ```
-Download the Python notebook and see what's up!
